@@ -1,6 +1,6 @@
 [![Build Status](https://snap-ci.com/imjorge/test-jms-consumer/branch/master/build_image)](https://snap-ci.com/imjorge/test-jms-consumer/branch/master)
 
-![Build Status](https://www.codeship.io/projects/16d92850-ca3d-0131-e4eb-121d56ccd2c2/status)
+[![Build Status](https://www.codeship.io/projects/16d92850-ca3d-0131-e4eb-121d56ccd2c2/status)](https://www.codeship.io/projects/22528)
 
 test-jms-consumer
 =================
