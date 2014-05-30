@@ -1,6 +1,4 @@
-[![Build Status](https://www.codeship.io/projects/16d92850-ca3d-0131-e4eb-121d56ccd2c2/status)](https://www.codeship.io/projects/22528)
-
-test-jms-consumer
+test-jms-consumer [![Build Status](https://www.codeship.io/projects/16d92850-ca3d-0131-e4eb-121d56ccd2c2/status)](https://www.codeship.io/projects/22528)
 =================
 
 Reads JMS messages from a configurable destination.
